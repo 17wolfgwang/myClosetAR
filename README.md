@@ -2,6 +2,8 @@
 
 ### An AR Fitting and Closet Management App with Accessibility and Sustainability in Mind
 
+<img width="500" alt="Augarmented_guru_demo" src="https://github.com/user-attachments/assets/0d47d32e-ea1a-41e1-b75e-88fcd471c0c5">
+
 Project Video
 <video controls>
    <source src="path/to/your_video.mp4" type="video/mp4">
