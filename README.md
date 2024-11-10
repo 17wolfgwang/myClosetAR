@@ -4,7 +4,7 @@
 
 <img width="500" alt="Augarmented_guru_demo" src="https://github.com/user-attachments/assets/0d47d32e-ea1a-41e1-b75e-88fcd471c0c5">
 
-[Watch the video](https://youtu.be/sl5EPjrUJmU)
+[Watch the video!!!!!!!!!!!](https://youtu.be/sl5EPjrUJmU)
 
 myClosetAR is an augmented reality (AR) application designed to empower individuals with disabilities through accessible virtual fitting and to provide inclusive closet management for all users. It supports sustainable practices by helping users maximize the life of their clothing, reducing clothing waste, and contributing to environmental conservation efforts.
 
