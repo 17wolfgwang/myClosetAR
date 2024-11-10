@@ -6,7 +6,7 @@
 
 Project Video
 <video controls>
-   <source src="path/to/your_video.mp4" type="video/mp4">
+   <source src="https://youtu.be/sl5EPjrUJmU" type="video/mp4">
    Your browser does not support the video tag.
 </video>
 
