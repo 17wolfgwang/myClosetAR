@@ -11,10 +11,10 @@ Project Video
 myClosetAR is an augmented reality (AR) application designed to empower individuals with disabilities through accessible virtual fitting and to provide inclusive closet management for all users. It supports sustainable practices by helping users maximize the life of their clothing, reducing clothing waste, and contributing to environmental conservation efforts.
 
 #### Team Introduction
-Sun-q, Kim [github link](https://github.com/sqkimofficial)  
-Tian(Iris), Qin [github link](https://github.com/Iris-666)  
-Yingying, Chen [github link](https://github.com/Yingying825)  
-Ryugwang(Josh), Jang [github link](https://github.com/17wolfgwang)
+- Sun-q, Kim [github link](https://github.com/sqkimofficial)  
+- Tian(Iris), Qin [github link](https://github.com/Iris-666)  
+- Yingying, Chen [github link](https://github.com/Yingying825)  
+- Ryugwang(Josh), Jang [github link](https://github.com/17wolfgwang)
 
 #### Key Features
 
@@ -61,6 +61,7 @@ Assets
 1.	Expanding AR fitting options for various body types and styles.
 2.	Integration with social platforms to enhance clothing recyling culture.
 3.	Advanced analytics for wardrobe insights.
+4.  Voice Input
 
 #### Contributing
 
