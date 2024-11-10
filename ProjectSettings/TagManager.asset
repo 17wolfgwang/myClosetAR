@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TriggerArea
   layers:
   - Default
   - TransparentFX
@@ -11,6 +12,9 @@ TagManager:
   - 
   - Water
   - UI
+  - Spawner Contact
+  - Placeable Surface
+  - TriggerArea
   - 
   - 
   - 
@@ -32,10 +36,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - XR Simulation
   - 
   m_SortingLayers:
   - name: Default
