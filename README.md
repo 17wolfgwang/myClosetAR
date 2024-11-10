@@ -1,13 +1,19 @@
 # AuGarmented Guru
 
-## An AR Fitting and Closet Management App with Accessibility and Sustainability in Mind
+### An AR Fitting and Closet Management App with Accessibility and Sustainability in Mind
+
+Project Video
+<video controls>
+   <source src="path/to/your_video.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+</video>
 
 myClosetAR is an augmented reality (AR) application designed to empower individuals with disabilities through accessible virtual fitting and to provide inclusive closet management for all users. It supports sustainable practices by helping users maximize the life of their clothing, reducing clothing waste, and contributing to environmental conservation efforts.
 
 #### Team Introduction
-Sun-q, Kim [github link](https://github.com/sqkimofficial)
-Tian(Iris), Qin [github link](https://github.com/Iris-666)
-Yingying, Chen [github link](https://github.com/Yingying825)
+Sun-q, Kim [github link](https://github.com/sqkimofficial)  
+Tian(Iris), Qin [github link](https://github.com/Iris-666)  
+Yingying, Chen [github link](https://github.com/Yingying825)  
 Ryugwang(Josh), Jang [github link](https://github.com/17wolfgwang)
 
 #### Key Features
@@ -26,7 +32,7 @@ Requirements
 
 Setup
 1.	Clone the Repository:
-     git clone https://github.com/17wolfgwang/myClosetAR.git
+`git clone https://github.com/17wolfgwang/myClosetAR.git`
 2.	Unity Project Setup:
 - Open the project in Unity and ensure all required packages, like XR Interaction Toolkit, are installed.
 - Go to Edit > Project Settings > XR Plug-in Management and enable Oculus under the Android tab for Meta Quest compatibility.
